@@ -4,7 +4,7 @@
 
 This project is a brief introduction for front-end development, designed to help students in UT's coding bootcamp with their pre-work for the course. 
 
-- My motivation for this project was to create and easy to navigate notes page that outline tips, tricks, shortcuts and best practices  for HTML, CSS, Javascript, and Git
+- My motivation for this project was to create an easy to navigate notes page that outline tips, tricks, shortcuts and best practices  for HTML, CSS, Javascript, and Git
 - I built this project to help students tackle their prework efficiently. Hopefully this study guide can be used by students to quickly refer to and help answer any potential questions.
 - This solves the problems that stressed out students face while working on the course prework.
 - Through this, I was able to learn about HTML, CSS, Java, Git and much more! Check out the notes for some helpful tips I discoverd along the way. 
